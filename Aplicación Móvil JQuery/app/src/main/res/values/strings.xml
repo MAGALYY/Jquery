@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">JQuery</string>
+    <string name="nuevo_usuario">Registrar Usuario</string>
+    <string name="cambiar_usuario">Nombre de Usuario</string>
+    <string name="cambio_contrasena">Introduce Contraseña</string>
+    <string name="cambio_contrasena2">Cambiar Contraseña</string>
+    <string name="nueva_contrasena">Teclea nueva contraseña</string>
+    <string name="conf_basicas">Registro de Usuarios APP</string>
+    <string name="conf_secundaria">Configuraciones</string>
+    <string name="contenido">Contenido habilitado Modulo 5</string>
+    <string name="modulo_cinco">Contenido para 5° Modulo</string>
+    <string name="idioma_aplicacion">Selecciona el idioma de la APP</string>
+    <string name="cambia_idioma">Cambia el idioma de la APP</string>
+    <string name="listar_usuarios">Listar Usuarios</string>
+    <string name="regresar">Regresar</string>
+    <string name="regresar_summary">Regresar a Menú</string>
+    <string name="btn_regresar">btn_regresar</string>
+    <string name="usuario">Crear Usuario</string>
+
+    <string name="viewVideoButton">Ver Video</string>
+
+    <string name="btn_iniciar">Iniciar Tutorial</string>
+    <string name="menu">JQuery</string>
+    <string name="definicion">jQuery es una biblioteca de JavaScript, creada inicialmente por John Resig, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.</string>
+    <string name="evento">Todas las diferentes acciones que un usuario hace en una página web se llaman eventos. Un evento representa el preciso momento cuando algo sucede.</string>
+    <string name="even">EVENTOS</string>
+    <string name="ejemplos">Ejemplos: -Mover el ratón sobre un elemento -Seleccionar un botón de opción -Al hacer clic en un elemento.</string>
+    <string name="sintaxis">JQuery sintaxis Para Métodos de Evento</string>
+    <string name="sin">Para asignar un evento de clic a todos los párrafos de la página, usted puede hacer esto :$("p").click();)
+
+
+        El siguiente paso es definir lo que debe ocurrir cuando se activa el evento . Debe pasar una función para el evento:
+        $("p").click(function(){
+            //action goes her!
+        });
+    </string>
+    <string name="tab_1">Desarrollador</string>
+    <string name="tab_2">Asignatura</string>
+    <string name="btn_examen">Éxamen</string>
+    <string name="jquery">JQuery</string>
+    <string name="utng">UTNG</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="recorrido"><![CDATA[$(\'h1\').next(\'p\'); // seleccionar el inmediato y próximo // elemento <p> con respecto a H1 $(\'div:visible\').parent(); // seleccionar el elemento contenedor // a un div visible $(\'input[name=first_name]\').closest(\'form\'); // seleccionar el elemento // <form> más cercano a un input $(\'#myList\').children(); // seleccionar todos los elementos // hijos de #myList $(\'li.selected\').siblings(); // seleccionar todos los items // hermanos del elemento <li>]]></string>
+    <string name="variosMetodos">jQuery ofrece varios métodos utilitarios dentro del espacio de nombres $. Estos métodos son de gran ayuda para llevar a cabo tareas rutinarias de programación.</string>
+    <string name="metodos_utiliarios">$.trim Remueve los espacios en blanco del principio y final. $.each Interactúa en vectores y objetos. $.inArray Devuelve el índice de un valor en un vector, o -1 si el valor no se encuentra en el vector. $.extend Cambia la propiedades del primer objeto utilizando las propiedades de los subsecuentes objetos. $.proxy Devuelve una función que siempre se ejecutará en el alcance (scope) provisto — en otras palabras, establece el significado de this (incluido dentro de la función) como el segundo argumento.</string>
+    <string name="obtener_informacion">Existen muchas formas por las cuales se puede modificar un elemento. Entre las tareas más comunes están las de cambiar el HTML interno o algún atributo del mismo. Para este tipo de tareas, jQuery ofrece métodos simples, funcionales en todos los navegadores modernos.</string>
+    <string name="obtener_infoemacion_elementos">$.fn.html Obtiene o establece el contenido HTML de un elemento. $.fn.text Obtiene o establece el contenido en texto del elemento; en caso se pasarle como argumento código HTML, este es despojado. $.fn.attr Obtiene o establece el valor de un determinado atributo. $.fn.width Obtiene o establece el ancho en pixeles del primer elemento de la selección como un entero.</string>
+    <string name="obtener_informacion_elementos2"><![CDATA[$.fn.height Obtiene o establece el alto en pixeles del primer elemento de la selección como un entero. $.fn.position Obtiene un objeto con información sobre la posición del primer elemento de la selección, relativo al primer elemento padre posicionado. Este método es solo obtenedor. $.fn.val Obtiene o establece el valor (value) en elementos de formularios. Ejemplo:Cambiar el HTML de un elemento $(\'#myDiv p:first\').html(\'Nuevo <strong>primer</strong> párrafo\');]]></string>
+    <string name="vincular_eventos">jQuery ofrece métodos para la mayoría de los eventos — entre ellos $.fn.click, $.fn.focus, $.fn.blur,$.fn.change, etc. Estos últimos son formas reducidas del método $.fn.on de jQuery ($.fn.bind en versiones anteriores a jQuery 1.7</string>
+    <string name="muybien">Muy Bien !!!</string>
+    <string name="musicaRelajante">Musica Relajante</string>
+    <string name="audio">Audio</string>
+    <string name="ingresa_nombre">Ingresa Nombre</string>
+    <string name="ingresa_app">Ingresa Apellido Paterno</string>
+    <string name="ingresa_apm">Ingresa Apellido Materno</string>
+    <string name="ingresa_usuario">Ingresa Usuario</string>
+    <string name="ingresa_contrasena">Ingresa Contraseña</string>
+    <string name="ingresa_correo">Ingresa Correo Electronico</string>
+    <string name="registrarme">Registrarme</string>
+    <string name="new_contrasena">Nueva Contraseña:</string>
+    <string name="usu">Usuario:</string>
+    <string name="registrate">Registrate !!!</string>
+    <string name="referencias">Referencias</string>
+    <string name="referencias_apa">s.n. (diciembre 21,2015). jQuery. abril 11, 2016, de WIKIPEDIA Sitio web: https://es.wikipedia.org/wiki/JQuery Barrena, A. (s.f). jQuery height(): Modificar y obtener la altura de los elementos. abril 11, 2016, de Aner Barrena Sitio web: http://www.anerbarrena.com/jquery-height-5150/ Murphey, R. (agosto,2013). Fundamentos de JQuery. abril 11, 2016, de Creative Commons Attribution-Share Alike 3.0 United States Sitio web: http://librojquery.com/#eventos s.n. (mayo 30, 2014). 1 - ¿Que es jQuery?. Abril 11, 2016, de ArtDesignerInc Sitio web: https://www.youtube.com/watch?v=5-mSRPb5GLM A.(junio 7, 2015). Introducción a los eventos en jQuery. abril 11, 2016, de Escuela Digital Sitio web: https://www.youtube.com/watch?v=N8adWcguC3M Dávila, M. (abril 2, 2014). Tutorial jQuery 2 - Eventos (click, mouseover, mouseout, focus, blur). abril 11, 2016, de YouTube Sitio web: https://www.youtube.com/watch?v=8nVcXL591XA Hernández, U. (abril 14, 2012). 9. Selectores en jQuery. abril 11, 2016, de codigofacilito Sitio web: https://www.youtube.com/watch?v=SfWbj8mA-TI s.n. (febrero 2, 2016). 5ª ED. MOOC HTML5. JavaScript. Eventos DOM JQuery. abril 11, 2016, de WebApps HTML5 Sitio web: https://www.youtube.com/watch?v=yHSFYQ-T3u8 Dávila, M. (abril 01, 2104). Tutorial jQuery 1 - Agregar contenido (text, html, append, prepend, val). abril 11, 2016, de YouTube Sitio web: https://www.youtube.com/watch?v=U7imAOr7-Q0</string>
+    <string name="eventos_dom">Eventos DOM</string>
+    <string name="vincular_evento">Vincular un evento utilizando un método reducido $(\'p\').click(function() { console.log(\'click\'); }); Vincular un evento utilizando el método $.fn.on $(\'p\').on(\'click\', function() { console.log(\'click\'); }); Vincular un evento utilizando el método $.fn.on con información asociada $(\'input\').on( \'click blur\', // es posible vincular múltiples eventos al elemento { foo : \'bar\' }, // se debe pasar la información asociada como argumento function(eventObject) { console.log(eventObject.type, eventObject.data); // registra el tipo de evento y la información asociada { foo : \'bar\' } } );</string>
+    <string name="grafica_aprovechamiento">Gráfica de Aprovechamiento</string>
+    <string name="completa_imagen">Completa la imagen:</string>
+    <string name="jugar">jugar</string>
+    <string name="palabra_clave">Palabra clave para pasar una función a un evento:</string>
+    <string name="generar_grafica">Generar Grafica</string>
+    <string name="metodos">Métodos para los eventos:</string>
+    <string name="res1">$.fn.click,$.fn.focus,$.fn.blur,$.fn.change</string>
+    <string name="res2">$.fn.clicked,$.fn.focus</string>
+    <string name="res3">$.fn.click,$.focus,$.fn.change,$.fn.blur</string>
+    <string name="metodo_util">Método útil para vincular:</string>
+    <string name="completa_sentencia">Completa la sentencia :</string>
+    <string name="pregunta13">¿Cuántas maneras de vincular un evento a un método existen?</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="pregunta14">Son formas reducidas del método $.fn.on :</string>
+    <string name="respuesta1_14">$.fn.click,$.fn.change</string>
+    <string name="respuesta2_14">$.fn.click,$.fn.focus</string>
+    <string name="respuesta3_14">$.fn.blur,$.fn.change</string>
+    <string name="pregunta15">¿Para qué se necesita vincular la misma función de controlador a múltiples eventos?</string>
+    <string name="respuesta1_15">Para reducir espacio.</string>
+    <string name="respuesta2_15">Para cuando se desea proveer información al controlador de evento.</string>
+    <string name="respuesta3_15">Simplemente una buena practica de programación.</string>
+    <string name="pregunta16">Selecciona a todos los items hermanos:</string>
+    <string name="pregunta17">Palabra clave la cual selecciona el elemento contenedor.</string>
+    <string name="respuesta1_17">children();</string>
+    <string name="respuesta2_17">parent();</string>
+    <string name="respuesta3_17">parents();</string>
+    <string name="pregunta18">Selecciona todos los elementos hijos:</string>
+    <string name="respuesta1_18">children();</string>
+    <string name="respuesta2_18">siblings();</string>
+    <string name="respuesta3_18">parent();</string>
+    <string name="pregunta19">¿Cuáles son los métodos de recorrido?</string>
+    <string name="respuesta1_19">next(),parents(),closest()</string>
+    <string name="respuesta2_19">next(),parent(),closest(), children(),siblings()</string>
+    <string name="respuesta3_19">next(),parent(),children(),siblingss()</string>
+    <string name="pregunta2">¿Qué manipula JQuery?:</string>
+    <string name="pregunta20">Selecciona el elemento inmediato y el siguiente</string>
+    <string name="respuesta1_20">next();</string>
+    <string name="respuesta2_20">closest();</string>
+    <string name="respuesta3_20">Nextt();</string>
+    <string name="pregunta21">Métodos que no trabajan con selecciones:</string>
+    <string name="respuesta1_21">Dentro del espacio de nombres $.fn</string>
+    <string name="respuesta2_21">Métodos en el espacio de nombres $</string>
+    <string name="respuesta3_21">Dentro del espacio de nombres $.n</string>
+    <string name="pregunta22">Métodos utilizados en selecciones</string>
+    <string name="respuesta1_22">Dentro del espacio de nombres $.fn</string>
+    <string name="respuesta2_22">Dentro del espacio de nombres $.n</string>
+    <string name="respuesta3_22">Métodos en el espacio de nombres $</string>
+    <string name="pregunta23">Métodos de gran ayuda para llevar a cabo tareas rutinarias.</string>
+    <string name="respuesta1_23">Dentro del espacio de nombres $.n</string>
+    <string name="respuesta2_23">Métodos utilitarios dentro del espacio de nombres $.</string>
+    <string name="respuesta3_23">Métodos en el espacio de nombres $.fn</string>
+    <string name="pregunta24">¿Cuáles son los métodos utiliarios?</string>
+    <string name="respuesta1_24">$.trim, $.each,$.inArray,$.proxys</string>
+    <string name="respuesta2_24">$.trim, $.each,$.inArrays, $.extend</string>
+    <string name="respuesta3_24">$.trim, $.each, $.inArray, $.extend,$.proxy.</string>
+    <string name="pregunta25">Cambia la propiedades del primer objeto:</string>
+    <string name="respuesta1_25">$.inArray</string>
+    <string name="respuesta2_25">$.extend</string>
+    <string name="respuesta3_25">$.each</string>
+    <string name="pregunta26">Establece el contenido en texto del elemento:</string>
+    <string name="respuesta1_26">$.fn.attr</string>
+    <string name="respuesta2_26">$.fn.text</string>
+    <string name="respuesta3_26">$.fn.html</string>
+    <string name="pregunta27">¿Cuál es la tarea más común a modificar?</string>
+    <string name="respuesta1_27">Cambiar un Css.</string>
+    <string name="respuesta2_27">Cambiar un HTML,interno o algún atributo del mismo:</string>
+    <string name="respuesta3_27">Cambiar un archivo de texto .txt.</string>
+    <string name="pregunta28">Obtiene el alto en pixeles del primer elemento de la selección como un entero :</string>
+    <string name="respuesta1_28">$.fn.attr</string>
+    <string name="respuesta2_28">$.fn.text</string>
+    <string name="respuesta3_28">$.fn.height</string>
+    <string name="pregunta29">Este método es solo obtenedor.:</string>
+    <string name="respuesta1_29">$.fn.val</string>
+    <string name="respuesta2_29">$.fn.position</string>
+    <string name="respuesta3_29">$.fn.positionns</string>
+    <string name="pregunta3">¿Por quien fue creada inicialmente?</string>
+    <string name="pregunta30">Establece el valor (value)en elementos de formularios :</string>
+    <string name="respuesta1_30">$.fn.val</string>
+    <string name="respuesta2_30">$.fn.position</string>
+    <string name="respuesta3_30">$.fn.values</string>
+    <string name="pregunta4">Interactúa con documentos:</string>
+    <string name="respuesta1_4">JS</string>
+    <string name="respuesta2_4">HTML</string>
+    <string name="respuesta3_4">XML</string>
+    <string name="pregunta5">¿Qué técnica usa JQuery?</string>
+    <string name="respuesta1_5">AJAX</string>
+    <string name="respuesta2_5">HTML</string>
+    <string name="respuesta3_5">SCRUM</string>
+    <string name="pregunta6">¿Qué es un evento?</string>
+    <string name="respuesta1_6">Una relación entre métodos.</string>
+    <string name="respuesta2_6">Todas las diferentes acciones que un usuario hace en una página web.</string>
+    <string name="respuesta3_6">Un tipo de usuario.</string>
+    <string name="pregunta7">¿Qué representa un evento?</string>
+    <string name="respuesta1_7">Una aplicación</string>
+    <string name="respuesta2_7">El usuario.</string>
+    <string name="respuesta3_7">El preciso momento cuando algo sucede.</string>
+    <string name="pregunta8">Ejemplos de eventos:</string>
+    <string name="respuesta1_8">Cadena vacía</string>
+    <string name="respuesta2_8">Seleccionar un botón.</string>
+    <string name="respuesta3_8">Selección.</string>
+    <string name="pregunta9">Evento clic que asigna todos los párrafos de la página:</string>
+    <string name="respuesta1_13">6</string>
+    <string name="respuesta2_13">3</string>
+    <string name="respuesta3_13">2</string>
+    <string name="felicidades">Felicidades !!!</string>
+
+
+</resources>
+
