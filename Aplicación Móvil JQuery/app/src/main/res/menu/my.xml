@@ -2,9 +2,6 @@
 
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-
-
-
     >
 
     <item android:id="@+id/menu_contenido" android:title="Contenido"
@@ -19,7 +16,7 @@
         app:showAsAction="always"></item>
 
 
-    <item android:id="@+id/menu_acerca" android:title="Acerca de:"
+    <item android:id="@+id/menu_acerca" android:title="Acerca"
 
 
         app:showAsAction="always"></item>

@@ -6,17 +6,31 @@
     <ImageView
         android:layout_width="330dp"
         android:layout_height="330dp"
-        android:src="@drawable/certificado"
+        android:src="@drawable/certificado3"
         android:layout_gravity="center"/>
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="30dp"
         android:text="@string/felicidades"
         android:textSize="25dp"
         android:textStyle="bold"
         android:textColor="#8ec8ff"
         android:layout_gravity="center"/>
+
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/btnVolver"
+        android:text="Volver a Menú"
+        android:background="#292d63"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"/>
+
 
 
 </LinearLayout>

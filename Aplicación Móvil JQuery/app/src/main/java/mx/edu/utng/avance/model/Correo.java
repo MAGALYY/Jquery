@@ -22,9 +22,10 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 
-//Class is extending AsyncTask because this class is going to perform a networking operation
-public class Correo  {
 
+
+//Class is extending AsyncTask because this class is going to perform a networking operation
+public class Correo {
 
     private Session session;
 

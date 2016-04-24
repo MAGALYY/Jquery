@@ -12,8 +12,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DBHelper extends SQLiteOpenHelper {
 
     //Declaración de variables estaticas
-    public static final String DATABASE_NAME = "prueba1.db";
-    public static final int DATABASE_VERSION = 8;
+    public static final String DATABASE_NAME = "prueba2.db";
+    public static final int DATABASE_VERSION = 1;
     public static final String TABLE_NAME_1 = "tbl_usuario";
     public static final String TABLE_NAME_2 = "tbl_examen";
     public static final String TABLE_NAME_3 = "tbl_pregunta";
