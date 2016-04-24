@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/referencias"
+    android:textStyle="bold"
+    android:textSize="20dp"
+    android:textColor="#0b1784"
+    />
+
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/siguiente"
+        android:layout_gravity="right"
+        android:id="@+id/btnSiguiente"/>
+
+
+    <TextView
+        android:text="@string/referencias_apa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:textColor="#0b1784"/>
+
+
+
+
+
+
+</LinearLayout>

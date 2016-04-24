@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+
+
+    >
+
+    <item android:id="@+id/menu_contenido" android:title="Contenido"
+
+        app:showAsAction="always" ></item>
+
+
+
+    <item android:id="@+id/menu_registro" android:title="Registrarse"
+
+
+        app:showAsAction="always"></item>
+
+
+    <item android:id="@+id/menu_acerca" android:title="Acerca de:"
+
+
+        app:showAsAction="always"></item>
+
+    <item android:id="@+id/menu_juego" android:title="Juega Adivina"
+
+
+        app:showAsAction="never"></item>
+    <item android:id="@+id/menu_configuracion" android:title="Configuración"
+
+
+        app:showAsAction="never"></item>
+
+
+
+
+
+</menu>

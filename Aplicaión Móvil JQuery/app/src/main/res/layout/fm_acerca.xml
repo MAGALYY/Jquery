@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/univer"/>
+
+    <TextView
+        android:text="Jessica Magali Perez Godinez"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:layout_gravity="right" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+
+        android:src="@drawable/m"/>
+
+    <TextView
+        android:text="Desarrollo de Aplicaciones III"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:text="Universidad Tecnologica del Norte de Guanajuato"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnReferencia"
+        android:text="Referencias"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#d7d7da"
+        android:layout_gravity="center">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ubicacion"
+            android:id="@+id/img_ubicacion"
+            android:layout_gravity="center"
+            />
+        <TextView
+            android:text="@string/utng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="23dp"/>
+    </LinearLayout>
+
+</LinearLayout>
