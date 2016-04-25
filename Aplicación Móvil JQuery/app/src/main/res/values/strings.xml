@@ -1,5 +1,5 @@
 ﻿<resources>
-    <string name="app_name">Jquery</string>
+    <string name="app_name">jQuery</string>
     <string name="nuevo_usuario">Registrar usuario</string>
     <string name="cambiar_usuario">Nombre de usuario</string>
     <string name="cambio_contrasena">Introduce contraseña</string>
@@ -20,12 +20,12 @@
     <string name="viewVideoButton">Ver video</string>
 
     <string name="btn_iniciar">Iniciar tutorial</string>
-    <string name="menu">Jquery</string>
-    <string name="definicion">Jquery es una biblioteca de JavaScript, creada inicialmente por John Resig, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.</string>
+    <string name="menu">jQuery</string>
+    <string name="definicion">jQuery es una biblioteca de JavaScript, creada inicialmente por John Resig, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.</string>
     <string name="evento">Todas las diferentes acciones que un usuario hace en una página web se llaman eventos. Un evento representa el preciso momento cuando algo sucede.</string>
     <string name="even">EVENTOS</string>
     <string name="ejemplos">Ejemplos: -Mover el ratón sobre un elemento -Seleccionar un botón de opción -Al hacer clic en un elemento.</string>
-    <string name="sintaxis">Jquery sintaxis para métodos de evento</string>
+    <string name="sintaxis">jQuery sintaxis para métodos de evento</string>
     <string name="sin">Para asignar un evento de clic a todos los párrafos de la página, usted puede hacer esto :$("p").click();)
 
 
@@ -48,7 +48,7 @@
     <string name="obtener_informacion_elementos2"><![CDATA[$.fn.height Obtiene o establece el alto en pixeles del primer elemento de la selección como un entero. $.fn.position Obtiene un objeto con información sobre la posición del primer elemento de la selección, relativo al primer elemento padre posicionado. Este método es solo obtenedor. $.fn.val Obtiene o establece el valor (value) en elementos de formularios. Ejemplo:Cambiar el HTML de un elemento $(\'#myDiv p:first\').html(\'Nuevo <strong>primer</strong> párrafo\');]]></string>
     <string name="vincular_eventos">jQuery ofrece métodos para la mayoría de los eventos — entre ellos $.fn.click, $.fn.focus, $.fn.blur,$.fn.change, etc. Estos últimos son formas reducidas del método $.fn.on de jQuery ($.fn.bind en versiones anteriores a jQuery 1.7</string>
     <string name="muybien">Muy bien !!!</string>
-    <string name="musicaRelajante">Musica relajante</string>
+    <string name="musicaRelajante">Música relajante</string>
     <string name="audio">Audio</string>
     <string name="ingresa_nombre">Ingresa nombre</string>
     <string name="ingresa_app">Ingresa apellido paterno</string>
