@@ -1,31 +1,31 @@
-<resources>
-    <string name="app_name">JQuery</string>
-    <string name="nuevo_usuario">Registrar Usuario</string>
-    <string name="cambiar_usuario">Nombre de Usuario</string>
-    <string name="cambio_contrasena">Introduce Contraseña</string>
-    <string name="cambio_contrasena2">Cambiar Contraseña</string>
+﻿<resources>
+    <string name="app_name">Jquery</string>
+    <string name="nuevo_usuario">Registrar usuario</string>
+    <string name="cambiar_usuario">Nombre de usuario</string>
+    <string name="cambio_contrasena">Introduce contraseña</string>
+    <string name="cambio_contrasena2">Cambiar contraseña</string>
     <string name="nueva_contrasena">Teclea nueva contraseña</string>
-    <string name="conf_basicas">Registro de Usuarios APP</string>
+    <string name="conf_basicas">Registro de usuarios app</string>
     <string name="conf_secundaria">Configuraciones</string>
-    <string name="contenido">Contenido habilitado Modulo 5</string>
-    <string name="modulo_cinco">Contenido para 5° Modulo</string>
-    <string name="idioma_aplicacion">Selecciona el idioma de la APP</string>
-    <string name="cambia_idioma">Cambia el idioma de la APP</string>
-    <string name="listar_usuarios">Listar Usuarios</string>
+    <string name="contenido">Contenido habilitado módulo 5</string>
+    <string name="modulo_cinco">Contenido para 5° módulo</string>
+    <string name="idioma_aplicacion">Selecciona el idioma de la app</string>
+    <string name="cambia_idioma">Cambia el idioma de la app</string>
+    <string name="listar_usuarios">Listar usuarios</string>
     <string name="regresar">Regresar</string>
-    <string name="regresar_summary">Regresar a Menú</string>
-    <string name="btn_regresar">btn_regresar</string>
-    <string name="usuario">Crear Usuario</string>
+    <string name="regresar_summary">Regresar a menú</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="usuario">Crear usuario</string>
 
-    <string name="viewVideoButton">Ver Video</string>
+    <string name="viewVideoButton">Ver video</string>
 
-    <string name="btn_iniciar">Iniciar Tutorial</string>
-    <string name="menu">JQuery</string>
-    <string name="definicion">jQuery es una biblioteca de JavaScript, creada inicialmente por John Resig, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.</string>
+    <string name="btn_iniciar">Iniciar tutorial</string>
+    <string name="menu">Jquery</string>
+    <string name="definicion">Jquery es una biblioteca de JavaScript, creada inicialmente por John Resig, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.</string>
     <string name="evento">Todas las diferentes acciones que un usuario hace en una página web se llaman eventos. Un evento representa el preciso momento cuando algo sucede.</string>
     <string name="even">EVENTOS</string>
     <string name="ejemplos">Ejemplos: -Mover el ratón sobre un elemento -Seleccionar un botón de opción -Al hacer clic en un elemento.</string>
-    <string name="sintaxis">JQuery sintaxis Para Métodos de Evento</string>
+    <string name="sintaxis">Jquery sintaxis para métodos de evento</string>
     <string name="sin">Para asignar un evento de clic a todos los párrafos de la página, usted puede hacer esto :$("p").click();)
 
 
@@ -37,7 +37,7 @@
     <string name="tab_1">Desarrollador</string>
     <string name="tab_2">Asignatura</string>
     <string name="btn_examen">Éxamen</string>
-    <string name="jquery">JQuery</string>
+    <string name="jquery">Jquery</string>
     <string name="utng">UTNG</string>
     <string name="btnSiguiente">Siguiente</string>
     <string name="recorrido"><![CDATA[$(\'h1\').next(\'p\'); // seleccionar el inmediato y próximo // elemento <p> con respecto a H1 $(\'div:visible\').parent(); // seleccionar el elemento contenedor // a un div visible $(\'input[name=first_name]\').closest(\'form\'); // seleccionar el elemento // <form> más cercano a un input $(\'#myList\').children(); // seleccionar todos los elementos // hijos de #myList $(\'li.selected\').siblings(); // seleccionar todos los items // hermanos del elemento <li>]]></string>
@@ -47,24 +47,24 @@
     <string name="obtener_infoemacion_elementos">$.fn.html Obtiene o establece el contenido HTML de un elemento. $.fn.text Obtiene o establece el contenido en texto del elemento; en caso se pasarle como argumento código HTML, este es despojado. $.fn.attr Obtiene o establece el valor de un determinado atributo. $.fn.width Obtiene o establece el ancho en pixeles del primer elemento de la selección como un entero.</string>
     <string name="obtener_informacion_elementos2"><![CDATA[$.fn.height Obtiene o establece el alto en pixeles del primer elemento de la selección como un entero. $.fn.position Obtiene un objeto con información sobre la posición del primer elemento de la selección, relativo al primer elemento padre posicionado. Este método es solo obtenedor. $.fn.val Obtiene o establece el valor (value) en elementos de formularios. Ejemplo:Cambiar el HTML de un elemento $(\'#myDiv p:first\').html(\'Nuevo <strong>primer</strong> párrafo\');]]></string>
     <string name="vincular_eventos">jQuery ofrece métodos para la mayoría de los eventos — entre ellos $.fn.click, $.fn.focus, $.fn.blur,$.fn.change, etc. Estos últimos son formas reducidas del método $.fn.on de jQuery ($.fn.bind en versiones anteriores a jQuery 1.7</string>
-    <string name="muybien">Muy Bien !!!</string>
-    <string name="musicaRelajante">Musica Relajante</string>
+    <string name="muybien">Muy bien !!!</string>
+    <string name="musicaRelajante">Musica relajante</string>
     <string name="audio">Audio</string>
-    <string name="ingresa_nombre">Ingresa Nombre</string>
-    <string name="ingresa_app">Ingresa Apellido Paterno</string>
-    <string name="ingresa_apm">Ingresa Apellido Materno</string>
-    <string name="ingresa_usuario">Ingresa Usuario</string>
-    <string name="ingresa_contrasena">Ingresa Contraseña</string>
-    <string name="ingresa_correo">Ingresa Correo Electronico</string>
+    <string name="ingresa_nombre">Ingresa nombre</string>
+    <string name="ingresa_app">Ingresa apellido paterno</string>
+    <string name="ingresa_apm">Ingresa apellido materno</string>
+    <string name="ingresa_usuario">Ingresa usuario</string>
+    <string name="ingresa_contrasena">Ingresa contraseña</string>
+    <string name="ingresa_correo">Ingresa correo electrónico</string>
     <string name="registrarme">Registrarme</string>
-    <string name="new_contrasena">Nueva Contraseña:</string>
+    <string name="new_contrasena">Nueva contraseña:</string>
     <string name="usu">Usuario:</string>
     <string name="registrate">Registrate !!!</string>
     <string name="referencias">Referencias</string>
     <string name="referencias_apa">s.n. (diciembre 21,2015). jQuery. abril 11, 2016, de WIKIPEDIA Sitio web: https://es.wikipedia.org/wiki/JQuery Barrena, A. (s.f). jQuery height(): Modificar y obtener la altura de los elementos. abril 11, 2016, de Aner Barrena Sitio web: http://www.anerbarrena.com/jquery-height-5150/ Murphey, R. (agosto,2013). Fundamentos de JQuery. abril 11, 2016, de Creative Commons Attribution-Share Alike 3.0 United States Sitio web: http://librojquery.com/#eventos s.n. (mayo 30, 2014). 1 - ¿Que es jQuery?. Abril 11, 2016, de ArtDesignerInc Sitio web: https://www.youtube.com/watch?v=5-mSRPb5GLM A.(junio 7, 2015). Introducción a los eventos en jQuery. abril 11, 2016, de Escuela Digital Sitio web: https://www.youtube.com/watch?v=N8adWcguC3M Dávila, M. (abril 2, 2014). Tutorial jQuery 2 - Eventos (click, mouseover, mouseout, focus, blur). abril 11, 2016, de YouTube Sitio web: https://www.youtube.com/watch?v=8nVcXL591XA Hernández, U. (abril 14, 2012). 9. Selectores en jQuery. abril 11, 2016, de codigofacilito Sitio web: https://www.youtube.com/watch?v=SfWbj8mA-TI s.n. (febrero 2, 2016). 5ª ED. MOOC HTML5. JavaScript. Eventos DOM JQuery. abril 11, 2016, de WebApps HTML5 Sitio web: https://www.youtube.com/watch?v=yHSFYQ-T3u8 Dávila, M. (abril 01, 2104). Tutorial jQuery 1 - Agregar contenido (text, html, append, prepend, val). abril 11, 2016, de YouTube Sitio web: https://www.youtube.com/watch?v=U7imAOr7-Q0</string>
     <string name="eventos_dom">Eventos DOM</string>
     <string name="vincular_evento">Vincular un evento utilizando un método reducido $(\'p\').click(function() { console.log(\'click\'); }); Vincular un evento utilizando el método $.fn.on $(\'p\').on(\'click\', function() { console.log(\'click\'); }); Vincular un evento utilizando el método $.fn.on con información asociada $(\'input\').on( \'click blur\', // es posible vincular múltiples eventos al elemento { foo : \'bar\' }, // se debe pasar la información asociada como argumento function(eventObject) { console.log(eventObject.type, eventObject.data); // registra el tipo de evento y la información asociada { foo : \'bar\' } } );</string>
-    <string name="grafica_aprovechamiento">Gráfica de Aprovechamiento</string>
+    <string name="grafica_aprovechamiento">Gráfica de aprovechamiento</string>
     <string name="completa_imagen">Completa la imagen:</string>
     <string name="jugar">jugar</string>
     <string name="palabra_clave">Palabra clave para pasar una función a un evento:</string>
@@ -84,7 +84,7 @@
     <string name="pregunta15">¿Para qué se necesita vincular la misma función de controlador a múltiples eventos?</string>
     <string name="respuesta1_15">Para reducir espacio.</string>
     <string name="respuesta2_15">Para cuando se desea proveer información al controlador de evento.</string>
-    <string name="respuesta3_15">Simplemente una buena practica de programación.</string>
+    <string name="respuesta3_15">Simplemente una buena práctica de programación.</string>
     <string name="pregunta16">Selecciona a todos los items hermanos:</string>
     <string name="pregunta17">Palabra clave la cual selecciona el elemento contenedor.</string>
     <string name="respuesta1_17">children();</string>
